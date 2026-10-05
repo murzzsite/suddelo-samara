@@ -80,7 +80,7 @@ ul{list-style:none}
 .section-lead{color:var(--ink-soft);font-size:16.5px;max-width:640px;margin-bottom:44px}
 
 /* ADVANTAGES */
-.adv__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}
+.adv__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
 .adv__item{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:28px}
 .adv__icon{width:44px;height:44px;border-radius:12px;background:rgba(169,128,62,.1);color:var(--gold);display:flex;align-items:center;justify-content:center;margin-bottom:18px}
 .adv__icon svg{width:22px;height:22px}
@@ -98,7 +98,7 @@ ul{list-style:none}
 .service__icon svg{width:20px;height:20px}
 
 /* CLIENTS (кому помогаем) */
-.clients__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.clients__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}
 .client-card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:30px}
 .client-card__icon{width:48px;height:48px;border-radius:50%;background:rgba(169,128,62,.1);color:var(--gold);display:flex;align-items:center;justify-content:center;margin-bottom:18px}
 .client-card__icon svg{width:24px;height:24px}
@@ -177,7 +177,7 @@ ul{list-style:none}
 @media (max-width:900px){
   .hero__grid{grid-template-columns:1fr}
   .hero h1{font-size:32px}
-  .adv__grid{grid-template-columns:repeat(2,1fr)}
+  .adv__grid{grid-template-columns:1fr}
   .services__grid{grid-template-columns:repeat(2,1fr)}
   .clients__grid{grid-template-columns:1fr}
   .steps__grid{grid-template-columns:repeat(2,1fr)}
