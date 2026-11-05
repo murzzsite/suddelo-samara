@@ -1,0 +1,45 @@
+{
+  "siteName": "Уголовная защита",
+  "siteUrl": "https://murzzsite.github.io/suddelo-samara",
+  "lang": "ru",
+  "repo": "murzzsite/suddelo-samara",
+  "ref": "JMFKS2ATCJ",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Практические статьи об уголовной защите и военном праве: задержание, мера пресечения, права подозреваемого, помощь участникам СВО и их семьям в Самарской области",
+  "homeTitle": "Полезные статьи об уголовной защите и военном праве",
+  "author": {
+    "name": "Уголовная защита",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию на консультации.",
+  "ctaButton": "Записаться на консультацию",
+  "ctaUrl": "/#form",
+  "disclaimer": "Материал носит информационный характер и не заменяет индивидуальную юридическую консультацию по вашему делу. Результат по конкретному делу зависит от его обстоятельств и решения суда, гарантировать его нельзя.",
+  "telegramNotify": false,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/advokat-po-ugolovnym-delam.html",
+    "/zashchita-voennosluzhashchih.html",
+    "/pomoshch-uchastnikam-svo.html",
+    "/zaderzhanie-i-mera-presecheniya.html",
+    "/privacy.html",
+    "/consent.html"
+  ],
+  "indexNowKey": "2ff6d47318d6a273f13423877c4e40b4",
+  "previewSecret": "8e5b19ac6ae526e0",
+  "theme": {
+    "accent": "var(--gold)",
+    "accent-soft": "color-mix(in srgb, var(--gold) 12%, #ffffff)",
+    "bg": "var(--cream)",
+    "surface": "var(--paper)",
+    "ink": "var(--navy)",
+    "text": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--line)"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /suddelo-samara/blog/preview/
+
+Sitemap: https://murzzsite.github.io/suddelo-samara/sitemap.xml
