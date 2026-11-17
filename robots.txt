@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /suddelo-samara/blog/preview/
+Disallow: /blog/preview/
 
-Sitemap: https://murzzsite.github.io/suddelo-samara/sitemap.xml
+Sitemap: https://advokat-ugolovny63.ru/sitemap.xml
