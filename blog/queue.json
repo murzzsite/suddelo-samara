@@ -3,14 +3,6 @@
   "updated": "2026-11-18",
   "awaiting": [
     {
-      "slug": "chto-delat-esli-zaderzhali-rodstvennika",
-      "path": "articles/chto-delat-esli-zaderzhali-rodstvennika.md",
-      "title": "Что делать, если задержали родственника: первые 48 часов",
-      "description": "Задержали близкого человека: куда звонить, какие права есть у задержанного, что нельзя подписывать и как подключить адвоката в первые часы.",
-      "reading_time": "7 мин чтения",
-      "preview_url": "https://advokat-ugolovny63.ru/blog/preview/2f6bb4a16558/chto-delat-esli-zaderzhali-rodstvennika/"
-    },
-    {
       "slug": "vidy-mer-presecheniya",
       "path": "articles/vidy-mer-presecheniya.md",
       "title": "Виды мер пресечения по УПК РФ: чем отличаются и как суд выбирает",
@@ -28,5 +20,12 @@
     }
   ],
   "scheduled": [],
-  "published": []
+  "published": [
+    {
+      "slug": "chto-delat-esli-zaderzhali-rodstvennika",
+      "title": "Что делать, если задержали родственника: первые 48 часов",
+      "url": "https://advokat-ugolovny63.ru/blog/chto-delat-esli-zaderzhali-rodstvennika/",
+      "date": "2026-11-18"
+    }
+  ]
 }
