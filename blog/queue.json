@@ -1,6 +1,6 @@
 {
   "site": "https://advokat-ugolovny63.ru",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "awaiting": [
     {
       "slug": "chto-delat-esli-zaderzhali-rodstvennika",
@@ -9,6 +9,22 @@
       "description": "Задержали близкого человека: куда звонить, какие права есть у задержанного, что нельзя подписывать и как подключить адвоката в первые часы.",
       "reading_time": "7 мин чтения",
       "preview_url": "https://advokat-ugolovny63.ru/blog/preview/2f6bb4a16558/chto-delat-esli-zaderzhali-rodstvennika/"
+    },
+    {
+      "slug": "vidy-mer-presecheniya",
+      "path": "articles/vidy-mer-presecheniya.md",
+      "title": "Виды мер пресечения по УПК РФ: чем отличаются и как суд выбирает",
+      "description": "Какие бывают меры пресечения: подписка о невыезде, поручительство, залог, домашний арест, запрет действий, арест. Как суд выбирает и что делает адвокат.",
+      "reading_time": "10 мин чтения",
+      "preview_url": "https://advokat-ugolovny63.ru/blog/preview/8963914a44aa/vidy-mer-presecheniya/"
+    },
+    {
+      "slug": "vyzvali-k-sledovatelyu",
+      "path": "articles/vyzvali-k-sledovatelyu.md",
+      "title": "Вызвали к следователю: что делать, как вести себя на допросе и нужен ли адвокат",
+      "description": "Повестка или звонок от следователя: идти ли, чем отличается свидетель от подозреваемого, нужен ли адвокат и какие документы нельзя подписывать без защитника.",
+      "reading_time": "10 мин чтения",
+      "preview_url": "https://advokat-ugolovny63.ru/blog/preview/e9ad99249640/vyzvali-k-sledovatelyu/"
     }
   ],
   "scheduled": [],
