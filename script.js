@@ -2,7 +2,7 @@
   // ===== CONFIG =====
   const LEAD_ENDPOINT = 'https://lead-relay.leestygpt.workers.dev/lead/JMFKS2ATCJ';
 
-  const YM_ID = 0; // номер счётчика Яндекс Метрики: вписать после создания счётчика
+  const YM_ID = 114309008;
 
   const loadMetrica = () => {
     if (!YM_ID || window.ym) return;
