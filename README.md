@@ -24,7 +24,7 @@
 - Ref-код клиента: `JMFKS2ATCJ`
 - Активация приёма заявок в Telegram: `https://t.me/formsfeedback_bot?start=JMFKS2ATCJ`
 
-- Телефон: +7 (937) 200-13-69
+- Телефон: +7 (937) 200-13-69, +7 (937) 176-11-55 (WhatsApp, Telegram)
 
 ## SEO без переноса (05.11.2026, вариант 3)
 
