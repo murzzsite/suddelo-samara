@@ -1,13 +1,8 @@
 {
   "site": "https://advokat-ugolovny63.ru",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "awaiting": [],
   "scheduled": [
-    {
-      "slug": "vidy-mer-presecheniya",
-      "title": "Виды мер пресечения по УПК РФ: чем отличаются и как суд выбирает",
-      "date": "2026-11-25"
-    },
     {
       "slug": "vyzvali-k-sledovatelyu",
       "title": "Вызвали к следователю: что делать, как вести себя на допросе и нужен ли адвокат",
@@ -15,6 +10,12 @@
     }
   ],
   "published": [
+    {
+      "slug": "vidy-mer-presecheniya",
+      "title": "Виды мер пресечения по УПК РФ: чем отличаются и как суд выбирает",
+      "url": "https://advokat-ugolovny63.ru/blog/vidy-mer-presecheniya/",
+      "date": "2026-11-25"
+    },
     {
       "slug": "chto-delat-esli-zaderzhali-rodstvennika",
       "title": "Что делать, если задержали родственника: первые 48 часов",
